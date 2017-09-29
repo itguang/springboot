@@ -23,3 +23,6 @@ dist/
 nbdist/
 .nb-gradle/
 /target/
+.gitignore
+pom.xml
+src/
